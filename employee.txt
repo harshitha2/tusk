@@ -3,3 +3,7 @@ Name
 Salary
 ID
 postion
+
+Promotion
+Joining date
+personal data
